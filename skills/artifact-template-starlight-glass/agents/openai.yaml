@@ -1,0 +1,7 @@
+interface:
+  display_name: "Starlight Glass · 星际毛玻璃"
+  short_description: "大标题、圆角渐变毛玻璃与图文分区，可按主题调整配色的演示模板"
+  icon_large: "./assets/preview.png"
+  default_prompt: "用 $artifact-template-starlight-glass 制作一份可编辑PPT，沿用参考布局，并按我的主题调整内容和配色。"
+policy:
+  allow_implicit_invocation: true
