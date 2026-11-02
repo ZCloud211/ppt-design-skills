@@ -4,9 +4,15 @@
 
 ## Starlight Glass · 星际毛玻璃
 
-从《星际拓荒》课程PPT提取的视觉模板：大标题、圆角渐变半透明文本框、真实图片分区，以及深蓝黑、篝火橙和浅金配色。换成其他主题时可以调整配色和页数。
+复用大标题、渐变半透明文本区、真实图片分区和多种布局的设计方法。**《星际拓荒》只是一个效果示例，后续PPT的配色、背景明暗和图片应根据新主题选择，不默认使用深蓝橙或太空风格。**
 
-![Starlight Glass 预览](skills/artifact-template-starlight-glass/assets/preview.png)
+### 效果示例 · 九宫格
+
+以下9张是同一份科幻游戏介绍的不同页面，用于展示封面、基础信息、故事、操作、案例、推荐和评价等排版。它们不是要求后续任务照搬的主题样式。
+
+![星际拓荒案例九宫格：展示9种页面的排版与视觉层级](skills/artifact-template-starlight-glass/assets/showcase.png)
+
+[打开大图查看](skills/artifact-template-starlight-glass/assets/showcase.png)
 
 - [Skill入口](skills/artifact-template-starlight-glass/SKILL.md)
 - [设计参数](skills/artifact-template-starlight-glass/references/design-system.md)
@@ -24,10 +30,10 @@
 
 调用示例：
 
-> 用 $artifact-template-starlight-glass 做一份8页科幻电影介绍，沿用大标题、毛玻璃与图文分区，配色改成深紫与青色。
+> 用 $artifact-template-starlight-glass 做一份8页城市旅行介绍，参考示例的信息层级与图文排版，按目的地照片选择合适配色。
 
 新任务应使用新内容、新图片与核实后的资料，不沿用旧案例的评分和查询日期。页数由当前任务决定，不固定为10页。
 
 ## 素材说明
 
-预览图包含《星际拓荒》官方封面素材，相关图片与游戏标识的权利归原权利人，出处见 [素材说明](skills/artifact-template-starlight-glass/assets/SOURCES.md)。公开展示预览不构成对第三方素材的重新授权。用于其他主题时请替换为适用素材。
+案例预览包含《星际拓荒》官方图片与有出处的实机截图，相关图片与游戏标识的权利归原权利人，出处见 [素材说明](skills/artifact-template-starlight-glass/assets/SOURCES.md)。公开展示预览不构成对第三方素材的重新授权。用于其他主题时请替换为适用素材。
